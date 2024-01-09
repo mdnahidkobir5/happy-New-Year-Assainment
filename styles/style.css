@@ -7,7 +7,7 @@
 .img {
     min-height: 100vh;
     width: 100%;
-    background-image: url("/resources/Banner\ Image.png");
+    background-image: url("../resources/Banner\ Image.png");
 
 
     background-repeat: no-repeat;
@@ -44,7 +44,7 @@
 }
 
 .section-img-contian {
-    background-image: url(/resources/Vectorrr.png);
+    background-image: url("../resources/Vectorrr.png");
     background-repeat: no-repeat;
     background-position: center;
     padding-left: 110px;
@@ -192,7 +192,7 @@
 }
 
 .may {
-    background-image: url(/resources/Rectangle\ 1.png);
+    background-image: url("../resources/Rectangle\ 1.png");
     background-repeat: no-repeat;
     width: 1300px;
     height: 633px;
@@ -214,7 +214,7 @@
 }
 
 .new-may {
-    background-image: url(/resources/Rectangle\ 2.png);
+    background-image: url("../resources/Rectangle\ 2.png");
     background-repeat: no-repeat;
     margin-left: 200px;
     margin-right: 219px;
@@ -312,3 +312,4 @@
 }
 .Unsubscribe{
     padding-left: 70%;
+}
