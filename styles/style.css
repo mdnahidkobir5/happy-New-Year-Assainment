@@ -1,0 +1,314 @@
+ .header {
+    margin: 0;
+    padding: 0;
+
+}
+
+.img {
+    min-height: 100vh;
+    width: 100%;
+    background-image: url("/resources/Banner\ Image.png");
+
+
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.text-contian {
+    text-align: center;
+    padding: 400px;
+    color: aliceblue;
+    font-size: 50px;
+
+}
+
+.section-text {
+    text-align: center;
+}
+
+.text-color {
+    color: red;
+    margin-bottom: 20px;
+}
+
+.text-bold {
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.section-img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.section-img-contian {
+    background-image: url(/resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 110px;
+    height: 600px;
+    margin-bottom: 100px;
+    display: flex;
+
+}
+
+.partytext {
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.partywidth {
+    font-size: 64px;
+    color: aliceblue;
+    padding-left: 40px;
+
+}
+
+.partypara {
+    color: aliceblue;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.imagsize {
+    padding-left: 300px;
+    padding-top: 100px;
+}
+
+.button {
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    border: none;
+    background: none;
+    color: aliceblue;
+    padding-left: 60px;
+    padding-top: 30px;
+}
+
+.hotel {
+    width: 1320px;
+    height: 482px;
+    background-color: rgb(236, 224, 228);
+    margin-left: 100px;
+    text-align: center;
+    margin-bottom: 50px;
+
+
+}
+
+.PDT {
+    padding-top: 120px;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+
+}
+
+.red {
+    color: red;
+}
+
+.join-now {
+    background-color: red;
+    border: none;
+    font-size: 32px;
+    border-radius: 20px;
+    color: aliceblue;
+
+}
+
+.offer {
+    display: flex;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 100px;
+
+}
+
+.boder-red {
+    border: 10px solid red;
+    border-radius: 50%;
+    width: 100%;
+    max-width: 400px;
+    height: 100%;
+    max-height: 100px;
+    padding-bottom: 300px;
+}
+
+.boder-style {
+    margin: 17px;
+
+}
+
+.dolor {
+    padding-right: 150px;
+    padding-top: 30px;
+}
+
+.coming-soon {
+    font-size: 48px;
+    padding-bottom: 20px;
+}
+
+.text-para {
+    font-size: 20px;
+    color: rgb(139, 134, 134);
+}
+
+.one-two {
+    padding-left: 100px;
+}
+
+
+
+.FUNCTIONAL {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.WHAT-IS {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.Holidays {
+    font-family: Merriweather;
+    font-size: 72px;
+    margin-bottom: 25px;
+}
+
+.group-fist {
+    display: flex;
+    justify-content: center;
+}
+
+.may {
+    background-image: url(/resources/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    width: 1300px;
+    height: 633px;
+    background-position: right;
+
+}
+
+.group-fist {
+    display: flex;
+}
+
+.group-second {
+    padding-left: 200px;
+}
+
+.group-third {
+    padding-right: 350px;
+    padding-top: 50px;
+}
+
+.new-may {
+    background-image: url(/resources/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    margin-left: 200px;
+    margin-right: 219px;
+    height: 229px;
+    margin-top: -100px;
+
+}
+
+.Portfolio {
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.imag-aline {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.imag-marjin {
+    margin-right: 20px;
+}
+
+.Subscribe {
+    margin-top: 20px;
+}
+
+.input-typr {
+    
+    border-radius: 0%;
+    width: 608px;
+    height: 42px;
+    border: none;
+}
+
+.subscribr-color {
+    width: 110px;
+    height: 42px;
+    border: none;
+    color:aliceblue;
+    background-color: red;
+    border-radius: 10%;
+    margin-left: -100px;
+}
+.footer{
+    width:100%;
+    height: 482px;
+    background-color:rgb(16, 16, 26);
+    text-align: center;
+    margin-top: 100px;
+}
+.para-color{
+    color: aliceblue;
+    font-size: 20px;
+    text-align: left;
+    padding-top: 120px;
+    margin-left: 130px;
+    
+}
+
+
+.c-w{
+    color: aliceblue;
+}
+.new-text-aline{
+    display: flex;
+    margin-bottom: -70px;
+    margin-left: 80%;
+}
+.width-line{
+    justify-content: center;
+    background-color: rgb(87, 94, 100);
+    height: 1px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 150px;
+}
+.F-I-T-L{
+    padding-top: 20px;
+}
+.width-line-second{
+    height: 1px;
+    width: 80%;
+    background-color: rgb(87, 94, 100);
+    margin-left: 10%;
+    margin-top: 20px;
+}
+.last{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 130px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.Unsubscribe{
+    padding-left: 70%;
